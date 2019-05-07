@@ -1,0 +1,17 @@
+# You should put your custom graph data in here.
+
+IMAGE
+iran-map.jpg
+800
+786
+
+VERTICES
+Masshad;570;237
+Birjand;590;370
+Zahedan;660;570
+Yazd;450;370
+Tehran;300;237
+
+EDGES
+Birjand;Masshad;400
+Masshad;Tehran;800
